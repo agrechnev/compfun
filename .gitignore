@@ -1,0 +1,16 @@
+build/
+cmake-build-*/
+*.user
+.idea/
+*.iml
+
+.log
+.vscode
+*.avi
+
+# cmake build and error information
+CMakeFiles/
+CMakeCache*
+
+# Git *.orig files
+*.orig
